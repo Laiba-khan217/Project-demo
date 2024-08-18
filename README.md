@@ -1,4 +1,4 @@
 # Project-demo
 This is my First Repository
 <br>
-Author- Laiba (laiba)
+Author- Laiba Khan
